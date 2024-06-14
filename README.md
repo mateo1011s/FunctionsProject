@@ -8,7 +8,9 @@
 > &gt; &nbsp; This repo contains the code of a program that solves 3 possible problems using functions and the conditional switch
 #### What problems does this program solve?
 >  &gt; &nbsp; In the first option the program will hep us solvign a sum of two numbers.
+
 >  &gt; &nbsp; In the second option, the program will print a text that we will insert using the keyboard.
+
 >  &gt; &nbsp; In the third option the program will give us the cosine of a number that we will enter.
 #### What lenguaje and libraries do we use?
 >  &gt; &nbsp; We only use JAVA lenguaje and the libraries of java.
